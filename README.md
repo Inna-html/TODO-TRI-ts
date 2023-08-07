@@ -1,5 +1,7 @@
 npm create vite@latest TODO-TRI --template react-ts > react > typescript 
-#ctrl c
+
+# ctrl c
+
 npm run build
 
 ##########################################################
